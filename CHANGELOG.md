@@ -7,6 +7,6 @@
   useful summary for people upgrading their application, not a replication
   of the commit log.
 
-## Unreleased
+## 0.1.0
 
 * Initial release
